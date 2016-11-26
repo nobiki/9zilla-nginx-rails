@@ -1,2 +1,2 @@
-# 9zilla-rails
-Debian Web Server - Nginx, unicorn
+# 9zilla-nginx-rails
+Debian Web Server - Nginx, [rails,unicorn]
