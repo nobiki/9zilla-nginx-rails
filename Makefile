@@ -6,4 +6,4 @@ update:
 	git submodule foreach git pull origin master
 
 build: Dockerfile
-	docker build --no-cache -t 9zilla-nginx-rails:latest .
+	docker build --no-cache -t 9zilla-nginx-ruby:latest .
